@@ -1,0 +1,51 @@
+
+ || React JS Course By CWH ||
+
+Q.How to create react app ?
+Ans:
+1) npm install -g create-react-app my-app -> this command will install the package and create react app.
+2) npx create-react-app my-app -> Ye react app banyegi packeage ko udhar lekr.     
+
+Q.How to strat react app ?
+Ans: npm start -> This command start the react app.
+
+---------
+
+* app.js ye file apki site hen.. 
+
+------
+
+* rfc write krke enter kr do to react function component ki boiler plate aa jati hen.
+
+------
+
+Props : iske madat se ham variables bana ke usme values set kr skte hen or unki madat se ham ek hi template ko multiple time use kr skte hen kyoki hume sirf variables ki value change krne hogi..
+propType : ye props ki value ki data type set krta hen.
+
+----
+
+
+hooks : bina class banaye class ke featers use krne dets hen.
+
+state : mtlab avstha.
+
+Event handleng : action ka reaction kya hona chahiye ye decide kiya jata hen..
+
+-----------
+
+* props.alert && : iski use se ham pehele kya execute hoga ye dicide kr lete he jaise ki is me pehele props.alert execute hoga fir && ke bad ka execute hoga agar pehela execute na ho to dusra bhi execute nhi hoga..
+
+* exact: React routing me exact path ka use kiya jata..taki similar paths se gadbadi na ho jaye.
+
+---------
+
+npm run build : is command se ham build folder banate hen..jo ki apki app ko static application bana deta hen..jo production me deploye ki jati hen..
+
+
+------------
+
+Q.project ko github pe kese deploy kiya jata hen?
+
+Ans:
+
+1.Git or github desctop install kr lo. iske bad DEployment of create react app ye google search krke officel page pe jao or vha crt + f krke search krlo Github pages yr krnr kr bad apko sari command mil jayengi.
